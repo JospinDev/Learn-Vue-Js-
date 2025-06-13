@@ -1,5 +1,5 @@
 # Learn-Vue-Js-
-
+"""
 2.What You Will Need For This Course
 3.Share Your Work On Skillshare!
 4.What Is Vue.js & What Can It Do?
@@ -135,3 +135,4 @@
 134.Saving The Image URL To Our Card
 135.Repositioning The Image
 136.Removing Images
+"""
